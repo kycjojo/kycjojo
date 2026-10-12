@@ -71,7 +71,7 @@ portofolio_web: "https://portojojoit.vercel.app"
         <b>Ekosistem Bot Otomatisasi Akademik 24/7 (ETHOL PENS)</b>
       </p>
       <ul>
-        <li><b>High Availability Failover:</b> Arsitektur Active-Standby di 2 HP Android (Redmi & Infinix via Termux) dengan deteksi konflik polling (HTTP 409) dan auto-standdown.</li>
+        <li><b>High Availability Failover:</b> Arsitektur Active-Standby dengan deteksi konflik polling (HTTP 409) dan auto-standdown.</li>
         <li><b>Sistem Lisensi HMAC:</b> Engine generate & verifikasi token lisensi berbasis hash signature HMAC-SHA256 mandiri.</li>
         <li><b>Session & Task Tracker:</b> Pemantauan berkala sesi presensi dengan jeda human-like serta deteksi otomatis notifikasi tugas baru.</li>
         <li><b>Integrasi Pembayaran:</b> Modul transaksi QRIS dinamis via Webhook listener.</li>
