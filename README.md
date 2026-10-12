@@ -81,7 +81,7 @@ portofolio_web: "https://portojojoit.vercel.app"
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🏢 Bot Layanan Akademik & Ruang (mypens_bot)</h3>
+      <h3 align="center">🏢 Bot Layanan Akademik & Ruang (mis_bot)</h3>
       <p align="center">
         <b>Asisten Informasi Terintegrasi & Cek Ruangan Kosong</b>
       </p>
