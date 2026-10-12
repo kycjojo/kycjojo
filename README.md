@@ -18,6 +18,9 @@
   <a href="https://t.me/Jojonewbie" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-@Jojonewbie-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
+  <a href="https://t.me/jojoethol_bot" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Bot-@jojoethol__bot-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="ETHOL Bot" />
+  </a>
   <a href="mailto:jojookta@it.student.pens.ac.id">
     <img src="https://img.shields.io/badge/Email-PENS%20Student-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -50,7 +53,7 @@ portofolio_web: "https://portojojoit.vercel.app"
 
 | Bidang | Teknologi & Perangkat yang Digunakan |
 | :--- | :--- |
-| **Bahasa Pemrograman** | [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org) [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org) [![Bash](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org) [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://php.net) [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org) |
+| **Bahasa Pemrograman** | [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org) [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language)) [![Bash](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org) [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://php.net) [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org) |
 | **Sistem Operasi & Jaringan** | [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://kernel.org) [![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://debian.org) [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com) [![MikroTik](https://img.shields.io/badge/MikroTik-29323C?style=for-the-badge&logo=mikrotik&logoColor=white)](https://mikrotik.com) [![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://cisco.com) |
 | **Otomatisasi, Bot & API** | [![Telegram Bot](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://core.telegram.org/bots/api) [![AsyncIO](https://img.shields.io/badge/AsyncIO-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/library/asyncio.html) [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org) [![Requests](https://img.shields.io/badge/Requests_HTTP-222222?style=for-the-badge&logo=python&logoColor=white)](https://requests.readthedocs.io/) |
 | **Deployment & Lingkungan Kerja** | [![Termux](https://img.shields.io/badge/Termux_Android-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://termux.dev) [![Android ADB](https://img.shields.io/badge/Android_ADB-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com) [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com) [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com) |
@@ -63,7 +66,7 @@ portofolio_web: "https://portojojoit.vercel.app"
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 <a href="https://github.com/kycjojo/etholasist">etholasist</a></h3>
+      <h3 align="center">🤖 <a href="https://github.com/kycjojo/etholasist">etholasist</a> (<a href="https://t.me/jojoethol_bot">@jojoethol_bot</a>)</h3>
       <p align="center">
         <b>Ekosistem Bot Otomatisasi Akademik 24/7 (ETHOL PENS)</b>
       </p>
