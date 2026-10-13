@@ -114,14 +114,35 @@ portofolio_web: "https://portojojoit.vercel.app"
 
 ---
 
-### 📊 Statistik Aktivitas GitHub
+### 📡 Status Operasional & Node Telemetry
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kycjojo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=kycjojo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kycjojo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+```yaml
+telemetry_node: "KYCJOJO-SYS-NODE-01"
+timestamp_sync: "2026-10-13 (UTC+07:00 / WIB)"
+
+running_services:
+  ethol_assist:
+    status: "🟢 ACTIVE (RUNNING)"
+    topology: "High-Availability Active-Standby (Termux Android Host)"
+    uptime: "24/7 Presensi & Notifikasi Tugas Otomatis"
+    security: "HMAC-SHA256 Token Signature • Webhook QRIS Dinamis"
+
+  mispens_bot:
+    status: "🟢 ONLINE"
+    engine: "ThreadPoolExecutor Parallel Fetcher (~0.4s Multi-API)"
+    coverage: "Gedung D4 (Lantai 1–4), D3, SAW, Pascasarjana PENS"
+    handler: "Anti-Crash Safe HTML Parser • Whitelist Access Guard"
+
+  portfolio_edge:
+    status: "🟢 LIVE"
+    endpoint: "https://portojojoit.vercel.app"
+    deployment: "Vercel Edge Network • Swiss Technical Monochrome & CLI Simulator"
+
+system_metrics:
+  os_environment: "Linux (Debian/Ubuntu) • Android Host (Termux) • Windows 11"
+  network_foundation: "ITNSA Provincial Medalist • Cisco IOS • MikroTik RouterOS"
+  primary_stack: ["Python", "C", "Bash/Shell", "AsyncIO", "SQLite", "REST API"]
+```
 
 ---
 
