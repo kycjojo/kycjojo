@@ -114,84 +114,13 @@ portofolio_web: "https://portojojoit.vercel.app"
 
 ---
 
-### 💻 Terminal Node Telemetry `[kycjojo@pens-sys-01]`
+### 🟢 Status Sistem & Akses Langsung
 
-> 💡 *Klik setiap baris perintah di bawah untuk membuka & menutup inspeksi log sistem secara interaktif:*
-
-<details open>
-<summary><b>🟢 <code>$ systemctl status ethol-assist.service</code></b> — <i>High-Availability Termux Bot Daemon</i></summary>
-
-```shell
-● ethol-assist.service - High-Availability Multi-Device Termux Bot
-     Loaded: loaded (/etc/systemd/system/ethol-assist.service; enabled)
-     Active: active (running) • Uptime: 24/7 continuous
-   Topology: Active-Standby Cluster (Primary: Redmi • Backup: Infinix via Termux)
-   Failover: HTTP 409 Conflict Auto-Standdown (Automatic failover recovery)
-   Security: HMAC-SHA256 Signature Verification & Cryptographic License Engine
-    Gateway: Dynamic QRIS Automated Transaction Listener via Webhook
-   Interval: 5-minute autonomous task checker & human-like presence scheduler
-```
-
-<div align="right">
-  <a href="https://t.me/jojoethol_bot" target="_blank"><b>Buka Bot Live (Telegram) ↗</b></a>
-</div>
-</details>
-
-<details>
-<summary><b>🟢 <code>$ mispens_bot --benchmark --coverage</code></b> — <i>Academic Parallel Fetcher & Room Tracker</i></summary>
-
-```shell
-[i] Initializing MIS Academic Engine...
-[✓] ThreadPoolExecutor Workers: 8 Threads Initialized
-[✓] HTTP Keep-Alive Session Pool: Active (latency: ~0.38s non-blocking)
-[✓] Room Monitoring Matrix:
-    ├── Gedung D4 (Lantai 1, 2, 3, 4: B301, A202, C102) -> Realtime Synced
-    ├── Gedung D3 -> Realtime Synced
-    ├── Gedung SAW -> Realtime Synced
-    └── Gedung Pascasarjana -> Realtime Synced
-[✓] Message Formatter: Anti-Crash Safe HTML Parser (Special char sanitized)
-[✓] Whitelist Guard: Enforced via allowed_users.json
-```
-
-<div align="right">
-  <a href="https://t.me/DATAjojo_bot" target="_blank"><b>Buka Bot Live (Telegram) ↗</b></a>
-</div>
-</details>
-
-<details>
-<summary><b>🔵 <code>$ fastfetch --node KYCJOJO-SYS-NODE-01</code></b> — <i>Host Environment & Systems Engineering Specs</i></summary>
-
-```shell
-       _,met$$$$$gg.          kycjojo@pens-sys-01
-    ,g$$$$$$$$$$$$$$$P.       -------------------
-  ,g$$P""       """Y$$.".     OS: Debian GNU/Linux 12 (bookworm) x86_64 / Android 14 (Termux)
- ,$$P'              `$$$.     Host: High-Availability Edge Nodes (Redmi + Infinix)
-',$$P       ,ggs.     `$$b:   Uptime: Production 24/7 Continuous
-`d$$'     ,$P"'   .    $$$    Shell: zsh 5.9 / Bash 5.2
- $$P      d$'     ,    $$P    Languages: Python 3.11+, C, Bash, SQL, JS
- $$:      $$.   -    ,d$$'    Network Skills: Cisco IOS, MikroTik RouterOS, BIND9, Nginx
- $$       Y$b._   _,d$P'      Awards: Medallion for Excellence LKS Jatim (ITNSA)
- Y$$.    `.`"Y$$$$P"'         Affiliation: D4 Teknik Informatika — PENS '26
-```
-</details>
-
-<details>
-<summary><b>🟣 <code>$ curl -I https://portojojoit.vercel.app/</code></b> — <i>Web Portfolio Edge Deployment Status</i></summary>
-
-```http
-HTTP/2 200 OK
-server: Vercel Edge Network
-content-type: text/html; charset=utf-8
-cache-control: public, max-age=0, must-revalidate
-x-architecture: Swiss Technical Monochrome + CLI Terminal Simulator
-x-web-audio-api: Synthetic Mechanical Keypress Audio Enabled
-status: LIVE & SYNCHRONIZED
-```
-
-<div align="right">
-  <a href="https://portojojoit.vercel.app" target="_blank"><b>Kunjungi Website Portofolio Live ↗</b></a>
-</div>
-</details>
+| Layanan / Sistem | Status | Penjelasan | Langsung ke Hasil Proyek |
+| :--- | :---: | :--- | :--- |
+| **ETHOL Assist** | `🟢 AKTIF` | Bot presensi otomatis & notifikasi tugas 24/7 (Termux HA Multi-Device) | <a href="https://t.me/jojoethol_bot" target="_blank"><img src="https://img.shields.io/badge/Buka_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="28" alt="Buka Telegram Bot" /></a> <a href="https://github.com/kycjojo/etholasist" target="_blank"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub Repository" /></a> |
+| **mispens_bot** | `🟢 AKTIF` | Data akademik & pemantau ketersediaan ruang kosong realtime PENS | <a href="https://t.me/DATAjojo_bot" target="_blank"><img src="https://img.shields.io/badge/Buka_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="28" alt="Buka Telegram Bot" /></a> <a href="https://github.com/kycjojo/mispens_bot" target="_blank"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub Repository" /></a> |
+| **Web Portofolio** | `🟢 AKTIF` | Showcase rekayasa sistem, sertifikasi ITNSA, & simulator CLI | <a href="https://portojojoit.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Kunjungi_Web-000000?style=for-the-badge&logo=vercel&logoColor=white" height="28" alt="Kunjungi Website" /></a> <a href="https://github.com/kycjojo/portofolio" target="_blank"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub Repository" /></a> |
 ---
 
 <div align="center">
