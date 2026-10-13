@@ -81,9 +81,9 @@ portofolio_web: "https://portojojoit.vercel.app"
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🏢 Bot Layanan Akademik & Ruang (mis_bot)</h3>
+      <h3 align="center">🏢 <a href="https://github.com/kycjojo/mispens_bot">mispens_bot</a> (<a href="https://t.me/DATAjojo_bot">@DATAjojo_bot</a>)</h3>
       <p align="center">
-        <b>Asisten Informasi Terintegrasi & Cek Ruangan Kosong</b>
+        <b>Asisten Informasi Akademik & Cek Ruangan Kosong Realtime</b>
       </p>
       <ul>
         <li><b>Parallel Fetcher Non-Blocking:</b> Integrasi <code>ThreadPoolExecutor</code> dan pooling session HTTP; memangkas waktu kueri multi-tabel dari 3–5 detik menjadi ~0.4 detik.</li>
