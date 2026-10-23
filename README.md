@@ -21,6 +21,9 @@
   <a href="https://t.me/jojoethol_bot" target="_blank">
     <img src="https://img.shields.io/badge/Live%20Bot-@jojoethol__bot-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="ETHOL Bot" />
   </a>
+  <a href="https://t.me/ACEPENS_BOT" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Bot-@ACEPENS__BOT-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="ACEPENS Bot" />
+  </a>
   <a href="mailto:jojookta@it.student.pens.ac.id">
     <img src="https://img.shields.io/badge/Email-PENS%20Student-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -82,17 +85,18 @@ portofolio_web: "https://portojojoit.vercel.app"
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🏢 <a href="https://github.com/kycjojo/mispens_bot">mispens_bot</a> (<a href="https://t.me/DATAjojo_bot">@DATAjojo_bot</a>)</h3>
+      <h3 align="center">🏢 <a href="https://github.com/kycjojo/ACEPENS_BOT">ACEPENS_BOT</a> (<a href="https://t.me/ACEPENS_BOT">@ACEPENS_BOT</a>)</h3>
       <p align="center">
-        <b>Asisten Informasi Akademik & Cek Ruangan Kosong Realtime</b>
+        <b>Bot Kas Kelas Cerdas &amp; Asisten Akademik Kampus PENS</b>
       </p>
       <ul>
+        <li><b>Manajemen Kas &amp; QRIS:</b> Otomasi tagihan kas per periode, pembayaran QRIS, approval bendahara via inline keyboard, dan sinkronisasi realtime ke Google Sheets via Webhook.</li>
+        <li><b>Logika Cek Ruang Kosong (<code>/cekruang</code>):</b> Pemetaan status realtime ruangan di Gedung D4 (Lantai 1–4), Gedung D3, Gedung SAW, dan Gedung Pascasarjana terhadap jadwal aktif.</li>
         <li><b>Parallel Fetcher Non-Blocking:</b> Integrasi <code>ThreadPoolExecutor</code> dan pooling session HTTP; memangkas waktu kueri multi-tabel dari 3–5 detik menjadi ~0.4 detik.</li>
-        <li><b>Logika Cek Ruang Kosong (<code>/cekruang</code>):</b> Pemetaan status realtime ruangan di Gedung D4 (4 lantai: B301, A202, C102), Gedung D3, Gedung SAW, dan Gedung Pascasarjana terhadap jadwal semester aktif.</li>
-        <li><b>Robust Message Sanitizer:</b> Migrasi entity parsing ke safe HTML formatter anti-crash (kebal terhadap nama dosen/karakter khusus).</li>
+        <li><i>Catatan:</i> Merupakan generasi penerus dan evolusi dari <code>mispens_bot</code> yang kini telah purna tugas.</li>
       </ul>
       <p align="center">
-        <code>Python</code> • <code>python-telegram-bot</code> • <code>Concurrent.Futures</code> • <code>REST API</code>
+        <code>Python</code> • <code>python-telegram-bot</code> • <code>SQLite</code> • <code>Google Apps Script</code>
       </p>
     </td>
   </tr>
@@ -120,8 +124,8 @@ portofolio_web: "https://portojojoit.vercel.app"
 | Layanan / Sistem | Status | Penjelasan | Langsung ke Hasil Proyek |
 | :--- | :---: | :--- | :--- |
 | **ETHOL Assist** | `🟢 AKTIF` | Bot presensi otomatis & notifikasi tugas 24/7 (Termux HA Multi-Device) | <a href="https://t.me/jojoethol_bot" target="_blank"><img src="https://img.shields.io/badge/Buka_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="28" alt="Buka Telegram Bot" /></a> <a href="https://github.com/kycjojo/etholasist" target="_blank"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub Repository" /></a> |
-| **mispens_bot** | `🟢 AKTIF` | Data akademik & pemantau ketersediaan ruang kosong realtime PENS | <a href="https://t.me/DATAjojo_bot" target="_blank"><img src="https://img.shields.io/badge/Buka_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="28" alt="Buka Telegram Bot" /></a> <a href="https://github.com/kycjojo/mispens_bot" target="_blank"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub Repository" /></a> |
-| **Web Portofolio** | `🟢 AKTIF` | Showcase rekayasa sistem, sertifikasi ITNSA, & simulator CLI | <a href="https://portojojoit.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Kunjungi_Web-000000?style=for-the-badge&logo=vercel&logoColor=white" height="28" alt="Kunjungi Website" /></a> <a href="https://github.com/kycjojo/portofolio" target="_blank"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub Repository" /></a> |
+| **ACEPENS_BOT** | `🟢 AKTIF` | Kas kelas QRIS, sinkronisasi Google Sheets, & pemantau ruang kosong realtime (Evolusi dari `mispens_bot`) | <a href="https://t.me/ACEPENS_BOT" target="_blank"><img src="https://img.shields.io/badge/Buka_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="28" alt="Buka Telegram Bot" /></a> <a href="https://github.com/kycjojo/ACEPENS_BOT" target="_blank"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub Repository" /></a> |
+| **Web Portofolio** | `🟢 AKTIF` | Showcase rekayasa sistem, sertifikasi ITNSA, & portofolio personal | <a href="https://portojojoit.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Kunjungi_Web-000000?style=for-the-badge&logo=vercel&logoColor=white" height="28" alt="Kunjungi Website" /></a> <a href="https://github.com/kycjojo/portofolio" target="_blank"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub Repository" /></a> |
 ---
 
 <div align="center">
