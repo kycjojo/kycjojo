@@ -19,10 +19,10 @@
     <img src="https://img.shields.io/badge/Telegram-@Jojonewbie-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="https://t.me/jojoethol_bot" target="_blank">
-    <img src="https://img.shields.io/badge/Live%20Bot-@jojoethol__bot-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="ETHOL Bot" />
+    <img src="https://img.shields.io/badge/Bot-@jojoethol__bot-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="ETHOL Bot" />
   </a>
   <a href="https://t.me/ACEPENS_BOT" target="_blank">
-    <img src="https://img.shields.io/badge/Live%20Bot-@ACEPENS__BOT-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="ACEPENS Bot" />
+    <img src="https://img.shields.io/badge/Bot-@ACEPENS__BOT-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="ACEPENS Bot" />
   </a>
   <a href="mailto:jojookta@it.student.pens.ac.id">
     <img src="https://img.shields.io/badge/Email-PENS%20Student-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -33,7 +33,7 @@
 
 ---
 
-### 👨‍💻 Profil & Rekayasa Sistem
+### Profil & Rekayasa Sistem
 
 ```yaml
 nama: "Rochmad Djojo Oktabianto (Jojo)"
@@ -45,14 +45,14 @@ fokus:
 portofolio_web: "https://portojojoit.vercel.app"
 ```
 
-- 🎓 Mahasiswa **D4 Teknik Informatika** di **Politeknik Elektronika Negeri Surabaya (PENS)** (NRP: 3126600126).
-- 🐧 Berpengalaman di bidang **IT Network System Administration (ITNSA)**, administrasi server Linux (Debian, Ubuntu), konfigurasi jaringan (MikroTik/Cisco), dan otomatisasi bash.
-- 🤖 Mengembangkan sistem bot asisten mandiri 24/7 dengan arsitektur **High-Availability (HA) Active-Standby** pada multi-device Android Termux, penanganan konflik `409 Conflict`, serta sistem lisensi kriptografis **HMAC-SHA256**.
-- ⚡ Mengoptimalkan pipeline HTTP request dengan **ThreadPoolExecutor parallel fetching** (memangkas latensi dari 3–5 detik menjadi ~0.4 detik) dan perancangan logika matriks ketersediaan ruangan kampus real-time.
+- Mahasiswa **D4 Teknik Informatika** di **Politeknik Elektronika Negeri Surabaya (PENS)** (NRP: 3126600126).
+- Berpengalaman di bidang **IT Network System Administration (ITNSA)**, administrasi server Linux (Debian, Ubuntu), konfigurasi jaringan (MikroTik/Cisco), dan otomatisasi bash.
+- Mengembangkan sistem bot asisten mandiri 24/7 dengan arsitektur **High-Availability (HA) Active-Standby** pada multi-device Android Termux, penanganan konflik `409 Conflict`, serta sistem lisensi kriptografis **HMAC-SHA256**.
+- Mengoptimalkan pipeline HTTP request dengan **ThreadPoolExecutor parallel fetching** (memangkas latensi dari 3–5 detik menjadi ~0.4 detik) dan perancangan logika matriks ketersediaan ruangan kampus real-time.
 
 ---
 
-### 🛠️ Tech Stack & Pengalaman Praktis
+### Tech Stack & Keahlian
 
 | Bidang | Teknologi & Perangkat yang Digunakan |
 | :--- | :--- |
@@ -65,27 +65,27 @@ portofolio_web: "https://portojojoit.vercel.app"
 
 ---
 
-### 🚀 Studi Kasus & Proyek Nyata
+### Proyek & Studi Kasus
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 <a href="https://github.com/kycjojo/etholasist">etholasist</a> (<a href="https://t.me/jojoethol_bot">@jojoethol_bot</a>)</h3>
+      <h3 align="center"><a href="https://github.com/kycjojo/etholasist">etholasist</a></h3>
       <p align="center">
-        <b>Ekosistem Bot Otomatisasi Akademik 24/7 (ETHOL PENS)</b>
+        <b>Sistem Otomatisasi Akademik 24/7 (ETHOL PENS)</b>
       </p>
       <ul>
-        <li><b>High Availability Failover:</b> Arsitektur Active-Standby dengan deteksi konflik polling (HTTP 409) dan auto-standdown.</li>
-        <li><b>Sistem Lisensi HMAC:</b> Engine generate & verifikasi token lisensi berbasis hash signature HMAC-SHA256 mandiri.</li>
+        <li><b>High Availability Failover:</b> Arsitektur Active-Standby di Termux Android dengan penanganan konflik polling (HTTP 409) dan auto-standdown.</li>
+        <li><b>Sistem Lisensi HMAC:</b> Engine generate & verifikasi token lisensi berbasis signature HMAC-SHA256 mandiri.</li>
         <li><b>Session & Task Tracker:</b> Pemantauan berkala sesi presensi dengan jeda human-like serta deteksi otomatis notifikasi tugas baru.</li>
         <li><b>Integrasi Pembayaran:</b> Modul transaksi QRIS dinamis via Webhook listener.</li>
       </ul>
       <p align="center">
-        <code>Python</code> • <code>SQLite</code> • <code>Async/Multithreading</code> • <code>Termux</code>
+        <code>Python</code> • <code>SQLite</code> • <code>AsyncIO</code> • <code>Termux</code>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🏢 <a href="https://github.com/kycjojo/ACEPENS_BOT">ACEPENS_BOT</a> (<a href="https://t.me/ACEPENS_BOT">@ACEPENS_BOT</a>)</h3>
+      <h3 align="center"><a href="https://github.com/kycjojo/ACEPENS_BOT">ACEPENS_BOT</a></h3>
       <p align="center">
         <b>Bot Kas Kelas Cerdas &amp; Asisten Akademik Kampus PENS</b>
       </p>
@@ -102,16 +102,16 @@ portofolio_web: "https://portojojoit.vercel.app"
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h3 align="center">🌐 <a href="https://github.com/kycjojo/portofolio">portofolio (portojojoit.vercel.app)</a></h3>
+      <h3 align="center"><a href="https://github.com/kycjojo/portofolio">portofolio</a></h3>
       <p align="center">
         <b>Situs Web Portofolio Personal Responsif</b>
       </p>
       <ul>
-        <li>Desain tata letak editorial & responsif (desktop, tablet, mobile) menggunakan Bootstrap 5 dan CSS murni.</li>
+        <li>Desain tata letak editorial & responsif (desktop, tablet, mobile) menggunakan Tailwind CSS & Bootstrap.</li>
         <li>Menyajikan rekam jejak kompetisi ITNSA, pengalaman jaringan/server, serta showcase sistem perangkat lunak yang telah dibangun.</li>
       </ul>
       <p align="center">
-        <code>HTML5</code> • <code>CSS3</code> • <code>Bootstrap 5</code> • <code>Vercel</code>
+        <code>HTML5</code> • <code>Tailwind CSS</code> • <code>JavaScript</code> • <code>Vercel</code>
       </p>
     </td>
   </tr>
@@ -119,16 +119,17 @@ portofolio_web: "https://portojojoit.vercel.app"
 
 ---
 
-### 🟢 Status Sistem & Akses Langsung
+### Status Sistem & Layanan
 
-| Layanan / Sistem | Status | Penjelasan | Langsung ke Hasil Proyek |
+| Layanan / Sistem | Status | Penjelasan | Tautan Proyek |
 | :--- | :---: | :--- | :--- |
-| **ETHOL Assist** | `🟢 AKTIF` | Bot presensi otomatis & notifikasi tugas 24/7 (Termux HA Multi-Device) | <a href="https://t.me/jojoethol_bot" target="_blank"><img src="https://img.shields.io/badge/Buka_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="28" alt="Buka Telegram Bot" /></a> <a href="https://github.com/kycjojo/etholasist" target="_blank"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub Repository" /></a> |
-| **ACEPENS_BOT** | `🟢 AKTIF` | Kas kelas QRIS, sinkronisasi Google Sheets, & pemantau ruang kosong realtime | <a href="https://t.me/ACEPENS_BOT" target="_blank"><img src="https://img.shields.io/badge/Buka_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="28" alt="Buka Telegram Bot" /></a> <a href="https://github.com/kycjojo/ACEPENS_BOT" target="_blank"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub Repository" /></a> |
-| **mispens_bot** | `🔴 NONAKTIF` | Versi awal pemantau ruang & data akademik (Purna tugas / Digantikan ACEPENS_BOT) | <a href="https://github.com/kycjojo/mispens_bot" target="_blank"><img src="https://img.shields.io/badge/Arsip_Repo-6e7681?style=for-the-badge&logo=github&logoColor=white" height="28" alt="Arsip Repository" /></a> |
-| **Web Portofolio** | `🟢 AKTIF` | Showcase rekayasa sistem, sertifikasi ITNSA, & portofolio personal | <a href="https://portojojoit.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Kunjungi_Web-000000?style=for-the-badge&logo=vercel&logoColor=white" height="28" alt="Kunjungi Website" /></a> <a href="https://github.com/kycjojo/portofolio" target="_blank"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub Repository" /></a> |
+| **ETHOL Assist** | `Aktif` | Bot presensi otomatis & notifikasi tugas 24/7 (Termux HA Multi-Device) | [Buka Bot](https://t.me/jojoethol_bot) • [Source Code](https://github.com/kycjojo/etholasist) |
+| **ACEPENS_BOT** | `Aktif` | Kas kelas QRIS, sinkronisasi Google Sheets, & pemantau ruang kosong realtime | [Buka Bot](https://t.me/ACEPENS_BOT) • [Source Code](https://github.com/kycjojo/ACEPENS_BOT) |
+| **mispens_bot** | `Nonaktif` | Versi awal pemantau ruang & data akademik (Purna tugas / Digantikan ACEPENS_BOT) | [Arsip Repo](https://github.com/kycjojo/mispens_bot) |
+| **Web Portofolio** | `Aktif` | Showcase rekayasa sistem, sertifikasi ITNSA, & portofolio personal | [Kunjungi Web](https://portojojoit.vercel.app) • [Source Code](https://github.com/kycjojo/portofolio) |
+
 ---
 
 <div align="center">
-  <sub>Dikelola oleh <a href="https://github.com/kycjojo">Rochmad Djojo Oktabianto</a> • <a href="https://portojojoit.vercel.app">portojojoit.vercel.app</a></sub>
+  <sub>Rochmad Djojo Oktabianto • <a href="https://portojojoit.vercel.app">portojojoit.vercel.app</a></sub>
 </div>
