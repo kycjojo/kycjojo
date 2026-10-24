@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,9,20&height=220&section=header&text=Rochmad%20Djojo%20Oktabianto&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=D4%20Informatics%20Engineering%20@%20PENS%20•%20Automation%20&%20Systems&descAlignY=58&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,9,20&height=220&section=header&text=Rochmad%20Djojo%20Oktabianto&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=D4%20Informatics%20Engineering%20@%20PENS%20•%20Systems,%20Mobile%20&%20Automation&descAlignY=58&descAlign=50" width="100%" />
 
 <!-- TYPING ANIMATION -->
 <a href="https://portojojoit.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=D4+Informatics+Engineering+Student+%40+PENS;Backend+%26+Automation+Bot+Developer;Linux+SysAdmin+%26+Termux+Deployment;High-Throughput+API+%26+Failover+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=D4+Informatics+Engineering+Student+%40+PENS;Mobile+App+%26+React+Native+Developer;Backend+%26+Automation+Bot+Developer;Linux+SysAdmin+%26+Termux+Deployment;High-Throughput+API+%26+Failover+Systems" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -39,6 +39,7 @@
 nama: "Rochmad Djojo Oktabianto (Jojo)"
 status: "Mahasiswa D4 Teknik Informatika — Politeknik Elektronika Negeri Surabaya (PENS)"
 fokus:
+  - "Pengembangan Aplikasi Mobile (React Native, Expo, SQLite Offline-First)"
   - "Sistem Otomatisasi & Bot Micro-SaaS (24/7 Worker, Telegram API)"
   - "Administrasi Jaringan & Linux (ITNSA, Termux, Scripting Shell)"
   - "Optimasi API & High Availability (Failover Multi-Device, ThreadPool Parallel Fetching)"
@@ -46,6 +47,7 @@ portofolio_web: "https://portojojoit.vercel.app"
 ```
 
 - Mahasiswa **D4 Teknik Informatika** di **Politeknik Elektronika Negeri Surabaya (PENS)** (NRP: 3126600126).
+- Berpengalaman di bidang **Pengembangan Aplikasi Mobile (React Native/Expo)** dengan arsitektur offline-first, state management Zustand, dan database SQLite lokal.
 - Berpengalaman di bidang **IT Network System Administration (ITNSA)**, administrasi server Linux (Debian, Ubuntu), konfigurasi jaringan (MikroTik/Cisco), dan otomatisasi bash.
 - Mengembangkan sistem bot asisten mandiri 24/7 dengan arsitektur **High-Availability (HA) Active-Standby** pada multi-device Android Termux, penanganan konflik `409 Conflict`, serta sistem lisensi kriptografis **HMAC-SHA256**.
 - Mengoptimalkan pipeline HTTP request dengan **ThreadPoolExecutor parallel fetching** (memangkas latensi dari 3–5 detik menjadi ~0.4 detik) dan perancangan logika matriks ketersediaan ruangan kampus real-time.
@@ -56,12 +58,13 @@ portofolio_web: "https://portojojoit.vercel.app"
 
 | Bidang | Teknologi & Perangkat yang Digunakan |
 | :--- | :--- |
-| **Bahasa Pemrograman** | [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org) [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language)) [![Bash](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org) [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://php.net) [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org) |
+| **Mobile Development** | [![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactnative.dev) [![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org) [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com) [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org) |
+| **Bahasa Pemrograman** | [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org) [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language)) [![Bash](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/) [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://php.net) [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org) |
 | **Sistem Operasi & Jaringan** | [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://kernel.org) [![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://debian.org) [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com) [![MikroTik](https://img.shields.io/badge/MikroTik-29323C?style=for-the-badge&logo=mikrotik&logoColor=white)](https://mikrotik.com) [![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://cisco.com) |
-| **Otomatisasi, Bot & API** | [![Telegram Bot](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://core.telegram.org/bots/api) [![AsyncIO](https://img.shields.io/badge/AsyncIO-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/library/asyncio.html) [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org) [![Requests](https://img.shields.io/badge/Requests_HTTP-222222?style=for-the-badge&logo=python&logoColor=white)](https://requests.readthedocs.io/) |
+| **Otomatisasi, Bot & API** | [![Telegram Bot](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://core.telegram.org/bots/api) [![AsyncIO](https://img.shields.io/badge/AsyncIO-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/library/asyncio.html) [![Requests](https://img.shields.io/badge/Requests_HTTP-222222?style=for-the-badge&logo=python&logoColor=white)](https://requests.readthedocs.io/) |
 | **Computer Vision & AI** | [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org) |
 | **Deployment & Lingkungan Kerja** | [![Termux](https://img.shields.io/badge/Termux_Android-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://termux.dev) [![Android ADB](https://img.shields.io/badge/Android_ADB-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com) [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com) [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com) |
-| **Pengembangan Web** | [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://w3.org) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://w3.org) [![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com) |
+| **Pengembangan Web** | [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://w3.org) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://w3.org) [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com) [![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com) |
 
 ---
 
@@ -69,6 +72,21 @@ portofolio_web: "https://portojojoit.vercel.app"
 
 <table>
   <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/kycjojo/hemachi">Playful Pocket (hemachi)</a></h3>
+      <p align="center">
+        <b>Aplikasi Manajemen Keuangan Mahasiswa (Android / React Native)</b>
+      </p>
+      <ul>
+        <li><b>Offline-First SQLite:</b> Penyimpanan persisten lokal dengan SQLite WAL mode untuk pencatatan transaksi super instan tanpa kuota internet.</li>
+        <li><b>Neo-Brutalism UI:</b> Desain sticker aesthetic kustom dengan palet warna terkurasi, numpad interaktif, dan bar kesehatan anggaran.</li>
+        <li><b>Budget & Analytics:</b> Alokasi batas anggaran 4 kategori (Kampus, Kos, Makan, Pribadi), insight pengeluaran terbesar, dan grafik bulanan.</li>
+        <li><b>Siap Install:</b> Dilengkapi file APK rilis mandiri siap pasang di perangkat Android.</li>
+      </ul>
+      <p align="center">
+        <code>React Native</code> • <code>Expo</code> • <code>TypeScript</code> • <code>SQLite</code> • <code>Zustand</code>
+      </p>
+    </td>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/kycjojo/etholasist">etholasist</a></h3>
       <p align="center">
@@ -84,6 +102,8 @@ portofolio_web: "https://portojojoit.vercel.app"
         <code>Python</code> • <code>SQLite</code> • <code>AsyncIO</code> • <code>Termux</code>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/kycjojo/ACEPENS_BOT">ACEPENS_BOT</a></h3>
       <p align="center">
@@ -99,9 +119,7 @@ portofolio_web: "https://portojojoit.vercel.app"
         <code>Python</code> • <code>python-telegram-bot</code> • <code>SQLite</code> • <code>Google Apps Script</code>
       </p>
     </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/kycjojo/portofolio">portofolio</a></h3>
       <p align="center">
         <b>Situs Web Portofolio Personal Responsif</b>
@@ -123,6 +141,7 @@ portofolio_web: "https://portojojoit.vercel.app"
 
 | Layanan / Sistem | Status | Penjelasan | Tautan Proyek |
 | :--- | :---: | :--- | :--- |
+| **Playful Pocket** | `Aktif` | Aplikasi pengatur keuangan & anggaran mahasiswa (Android Offline-First) | [Unduh APK](https://github.com/kycjojo/hemachi/raw/main/apk/PlayfulPocket-v1.0.0.apk) • [Source Code](https://github.com/kycjojo/hemachi) |
 | **ETHOL Assist** | `Aktif` | Bot presensi otomatis & notifikasi tugas 24/7 (Termux HA Multi-Device) | [Buka Bot](https://t.me/jojoethol_bot) • [Source Code](https://github.com/kycjojo/etholasist) |
 | **ACEPENS_BOT** | `Aktif` | Kas kelas QRIS, sinkronisasi Google Sheets, & pemantau ruang kosong realtime | [Buka Bot](https://t.me/ACEPENS_BOT) • [Source Code](https://github.com/kycjojo/ACEPENS_BOT) |
 | **mispens_bot** | `Nonaktif` | Versi awal pemantau ruang & data akademik (Purna tugas / Digantikan ACEPENS_BOT) | [Arsip Repo](https://github.com/kycjojo/mispens_bot) |
